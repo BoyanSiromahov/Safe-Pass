@@ -1,0 +1,22 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\bobby\Desktop\Safe Pass\Safe Pass.jar</jar>
+  <outfile>J:\Side Projects\Pass Gen\Password Gen\Safe Pass.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>J:\Side Projects\Pass Gen\Password Gen\res\lock.ico</icon>
+  <jre>
+    <path></path>
+    <minVersion>1.4.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+</launch4jConfig>
